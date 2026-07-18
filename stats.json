@@ -3,14 +3,14 @@
   "updated": "2026-07-18T00:00:00+05:30",
   "health": {
     "body_fat": {"value": 15.05, "unit": "%", "delta": -1.8, "direction": "down_good", "delta_label": "since Mar"},
-    "strength_deadlift": {"value": 160, "unit": "kg", "delta": 7.5, "direction": "up_good", "delta_label": "this cycle"}
+    "strength_deadlift": {"value": 150, "unit": "kg", "delta": 7.5, "direction": "up_good", "delta_label": "this cycle"}
   },
   "wealth": {
-    "savings_rate": {"value": 41, "unit": "%", "delta": 6, "direction": "up_good", "delta_label": "vs Q1"},
+    "savings_rate": {"value": 31, "unit": "%", "delta": 6, "direction": "up_good", "delta_label": "vs Q1"},
     "net_worth_index": {"value": 112, "baseline": 100, "direction": "up_good"}
   },
   "discipline": {
-    "days_logged": {"value": 196},
+    "days_logged": {"value": 156},
     "weekly_score": {"value": 7.8, "unit": "/10"}
   },
   "content": {
