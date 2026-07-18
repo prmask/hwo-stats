@@ -2,7 +2,7 @@
   "schema_version": 1,
   "updated": "2026-07-18T00:00:00+05:30",
   "health": {
-    "body_fat": {"value": 14.8, "unit": "%", "delta": -1.8, "direction": "down_good", "delta_label": "since Mar"},
+    "body_fat": {"value": 15.05, "unit": "%", "delta": -1.8, "direction": "down_good", "delta_label": "since Mar"},
     "strength_deadlift": {"value": 160, "unit": "kg", "delta": 7.5, "direction": "up_good", "delta_label": "this cycle"}
   },
   "wealth": {
