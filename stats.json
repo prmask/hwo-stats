@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "updated": "2026-07-18T00:00:00+05:30",
+  "health": { "weight": {"value": 84.2, "unit": "kg", "delta": -3.1, "direction": "down_good"} },
+  "wealth": { "savings_rate": {"value": 41, "unit": "%", "delta": 6, "direction": "up_good"} },
+  "discipline": { "days_logged": {"value": 1}, "weekly_score": {"value": 7.8, "unit": "/10"} }
+}
